@@ -1,2 +1,2 @@
-# Exercises
-Ejercicios de algoritmo y estructura de datos
+# Ejercicio de algoritmos y estructura de datos
+## :)
